@@ -1,20 +1,19 @@
-[
-  {
-    "id": 1,
-    "name": "Ruslan Strilianyi",
-    "email": "some-email@gmail.com",
-    "specialty": "front-end"
-  },
-  {
-    "id": 2,
-    "name": "David Mikulacek",
-    "email": "nagibator2000@gmail.com",
-    "specialty": "back-end"
-  },
-  {
-    "id": 3,
-    "name": "Petr Cech",
-    "email": "peter.cech@gmail.com",
-    "specialty": "front-end"
-  }
-]
+{
+  "topics": [
+    {
+      "id": 1,
+      "title": "to learn angular",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "to learn french",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "title": "to learn some",
+      "completed": false
+    }
+  ]
+}
