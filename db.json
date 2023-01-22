@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Ruslan Strilianyi",
+    "email": "some-email@gmail.com",
+    "specialty": "front-end"
+  },
+  {
+    "id": 2,
+    "name": "David Mikulacek",
+    "email": "nagibator2000@gmail.com",
+    "specialty": "back-end"
+  },
+  {
+    "id": 3,
+    "name": "Petr Cech",
+    "email": "peter.cech@gmail.com",
+    "specialty": "front-end"
+  }
+]
