@@ -43,23 +43,5 @@
         "description": "Novel revolves around the plight of two German refugees in the opening months of World War II. One of the refugees relates their story during the course of a single night in Lisbon in 1942.",
         "rate": "4.5",
         "date": "1962"
-      },
-      {
-        "id": 6,
-        "imgURL": "https://s-kanban-t.000webhostapp.com/media/remarque_lisbon.jpg",
-        "title": "The Night in Lisbon",
-        "autor": "Erich M. Remarque",
-        "description": "Novel revolves around the plight of two German refugees in the opening months of World War II. One of the refugees relates their story during the course of a single night in Lisbon in 1942.",
-        "rate": "4.5",
-        "date": "1962"
-      },
-      {
-        "id": 7,
-        "imgURL": "https://s-kanban-t.000webhostapp.com/media/remarque_lisbon.jpg",
-        "title": "The Night in Lisbon",
-        "autor": "Erich M. Remarque",
-        "description": "Novel revolves around the plight of two German refugees in the opening months of World War II. One of the refugees relates their story during the course of a single night in Lisbon in 1942.",
-        "rate": "4.5",
-        "date": "1962"
       }
 ]
